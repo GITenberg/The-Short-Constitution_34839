@@ -1,0 +1,40 @@
+_repo: The-Short-Constitution_34839
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Meyerholz, Charles H. (Charles Henry)
+    birthdate: 1876
+    gutenberg_agent_id: '40478'
+    url: http://www.gutenberg.org/2009/agents/40478
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Russell, William F. (William Fletcher)
+    aliases:
+    - Russell, William Fletcher
+    - Russell, W. (William)
+    birthdate: 1890
+    deathdate: 1956
+    gutenberg_agent_id: '37268'
+    url: http://www.gutenberg.org/2009/agents/37268
+  - agent_name: Wade, Martin J. (Martin Joseph)
+    birthdate: 1861
+    deathdate: 1931
+    gutenberg_agent_id: '37267'
+    url: http://www.gutenberg.org/2009/agents/37267
+description: ''
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States. Constitution'
+title: The Short Constitution
+url: http://www.gutenberg.org/ebooks/34839
